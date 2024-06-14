@@ -1,0 +1,4 @@
+<all>: Lift.mp
+<files>: Lift.mcp Practyka.mcu
+Practyka.mcu: Practyka.asm
+Lift.mp: <files>
